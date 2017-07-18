@@ -12,6 +12,6 @@ current amount of free memory
 ### exit 
 ending a terminal session
 
-* Navigation 
+* # Navigation 
 	### pwd 
 	prints working directory
