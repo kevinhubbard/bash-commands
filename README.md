@@ -1,7 +1,7 @@
 # bash-commands
 List of simple bash commands to get started with the linux command line
 
-#cal
+# cal
 displays the calender
-#date
+# date
 displays the date
